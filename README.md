@@ -7,7 +7,7 @@
 DomainMix works fine on both [PaddlePaddle](https://www.paddlepaddle.org.cn/) and [PyTorch](https://pytorch.org/).
 
 Framework:
-<div align=center><img src="https://github.com/iccv-domainmix/DomainMix/blob/main/framework.png" width="80%"/></div>
+<div align=center><img src="https://github.com/WangWenhao0716/DomainMix/blob/main/framework.png" width="80%"/></div>
 
 ## Requirement
 * Python 3.7
