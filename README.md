@@ -99,4 +99,4 @@ CUDA_VISIBLE_DEVICES=0 python test.py -b 256 -j 8 --dataset-target market1501 -a
 
 ## Acknowledgement
 
-Some parts of our codes are from [MMT](https://github.com/yxgeee/MMT) and [SpCL](https://github.com/yxgeee/SpCL). Thanks Yixiao Ge for her contribution.
+Some parts of our code are from [MMT](https://github.com/yxgeee/MMT) and [SpCL](https://github.com/yxgeee/SpCL). Thanks Yixiao Ge for her contribution.
