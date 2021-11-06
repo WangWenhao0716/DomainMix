@@ -104,8 +104,7 @@ Some parts of our code are from [MMT](https://github.com/yxgeee/MMT) and [SpCL](
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```
-@inproceedings{
-  wang2021domainmix,
+@inproceedings{wang2021domainmix,
   title={DomainMix: Learning Generalizable Person Re-Identification Without Human Annotations},
   author={Wenhao Wang and Shengcai Liao and Fang Zhao and Kangkang Cui and Ling Shao},
   booktitle={British Machine Vision Conference},
