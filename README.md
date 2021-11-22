@@ -1,7 +1,7 @@
 # DomainMix
 [BMVC2021] The official implementation of "DomainMix: Learning Generalizable Person Re-Identification Without Human Annotations"
 
-[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0328.pdf)] [[demo](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0328.html)] [[Chinese blog]()]
+[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0328.pdf)] [[demo](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0328.html)] [[Chinese blog](https://mp.weixin.qq.com/s/X2QCvkgS9mi6-kt9whjOEA)]
 
 
 DomainMix works fine on both [PaddlePaddle](https://www.paddlepaddle.org.cn/) and [PyTorch](https://pytorch.org/).
