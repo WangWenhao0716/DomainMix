@@ -63,7 +63,7 @@ We provide our trained models as follows. They should be saved in `./logs/traine
 
 Market1501:
 
-[**DomainMix(43.5% mAP)**](https://drive.google.com/file/d/1-20fEHgTNi66OBm2i_UEDFj8gYd7u19p/view?usp=sharing)    [**DomainMix-IBN(45.7% mAP)**](hhttps://drive.google.com/file/d/1-5NrcubD3SFgpWbXstIB8WX-CTrxOJMf/view?usp=sharing)
+[**DomainMix(43.5% mAP)**](https://drive.google.com/file/d/1-20fEHgTNi66OBm2i_UEDFj8gYd7u19p/view?usp=sharing)    [**DomainMix-IBN(45.7% mAP)**](https://drive.google.com/file/d/1-5NrcubD3SFgpWbXstIB8WX-CTrxOJMf/view?usp=sharing)
 
 
 CUHK03-NP:
